@@ -1,0 +1,6 @@
+src/token.txt
+src/__pycache__
+config.zsh
+discordBot/*
+terraform/.*
+terraform/terraform.*
